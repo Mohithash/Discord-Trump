@@ -9,7 +9,7 @@ const fs = require("fs");
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-client.login("NzYwODM1MDY4NDc3ODMzMjU2.X3R03w.MS7is2JwiQQpljz5ZTON1wggmWQ").catch(console.error);
+client.login("<SECRET-BOT-TOKEN>").catch(console.error);
 
 function updateStatus() {
 	const connections = client.voice && client.voice.connections;
