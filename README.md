@@ -159,6 +159,8 @@ Wilford Brimley (vo.codes) - `wilford-brimley`
 
 Zecora (15.ai) - `zecora-say`
 
+*FULL LIST COMING SOON*
+
 *Makes the selected character say anything you want.*
 
 *If the bot is in a voice channel, the speech will play through this channel.*
