@@ -19,17 +19,23 @@ Apple Bloom (15.ai) - `apple-bloom-say`
 
 Applejack (15.ai) - `applejack-say`
 
+Anderson Cooper (15.ai) - `anderson-cooper-say`
+
 Arnold Schwarzenegger (vo.codes) - `arnold-schwarzenegger-say`
 
 Bart Simpson (vo.codes) - `bart-simpson-say`
 
 Ben Shapiro (vo.codes) - `ben-shapiro-say`
 
+Ben Stein (vo.codes) - `ben-stein-say`
+
 Betty White (vo.codes) - `betty-white-say`
 
 Bill Gates (vo.codes) - `bill-gates-say`
 
 Bill Nye (vo.codes) - `bill-nye-say`
+
+Boomstick (vo.codes) - `boomstick-say`
 
 Bon Bon (15.ai) - `bon-bon-say`
 
@@ -47,6 +53,8 @@ Craig Ferguson (vo.codes) - `craig-ferguson-say`
 
 Danny Devito (vo.codes) - `danny-devito-say`
 
+David Cross (vo.codes) - `david-cross-say`
+
 Derpy Hooves (15.ai) - `derpy-hooves-say`
 
 Donald Trump (trumped.com) - `donald-trump-say`
@@ -57,11 +65,15 @@ Flowey (15.ai) - `flowey-say`
 
 Fluttershy (15.ai) - `fluttershy-say`
 
+George W. Bush (vo.codes) - `george-w-bush-say`
+
 Gilbert Gottfried (vo.codes) - `gilbert-gottfried-say`
 
 Homer Simpson (vo.codes) - `homer-simpson-say`
 
 J.K. Simmons (vo.codes) - `jk-simmons-say`
+
+Jimmy Carter (vo.codes) - `jimmy-carter-say`
 
 Judi Dench (vo.codes) - `judi-dench-say`
 
@@ -99,9 +111,19 @@ Rainbow Dash (15.ai) - `rainbow-dash-say`
 
 Rarity (15.ai) - `rarity-say`
 
+Richard Ayoade (vo.codes) - `richard-ayoade-say`
+
+Richard Nixon (vo.codes) - `richard-nixon-say`
+
+Ronald Reagan (vo.codes) - `ronald-reagan-say`
+
+Sam Altman (vo.codes) - `sam-altmans-say`
+
 Sans (15.ai) - `sans-say`
 
 Scootaloo (15.ai) - `scootaloo-say`
+
+Shohreh Aghdashloo (vo.codes) - `shohreh-aghdashloo-say`
 
 Sir David Attenborough (vo.codes) - `sir-david-attenborough-say`
 
@@ -132,6 +154,8 @@ Tucker Carlson (vo.codes) - `tucker-carlson-say`
 Twilight Sparkle (15.ai) - `twilight-sparkle-say`
 
 Vapor Trail (15.ai) - `vapor-trail-say`
+
+Wilford Brimley (vo.codes) - `wilford-brimley`
 
 Zecora (15.ai) - `zecora-say`
 
