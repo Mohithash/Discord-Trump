@@ -199,7 +199,6 @@ Yami Yugi (vo.codes) - `yami-yugi-say`
 
 Zecora (15.ai) - `zecora-say`
 
-*FULL LIST COMING SOON*
 
 *Makes the selected character say anything you want.*
 
