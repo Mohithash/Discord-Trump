@@ -23,6 +23,8 @@ Anderson Cooper (15.ai) - `anderson-cooper-say`
 
 Arnold Schwarzenegger (vo.codes) - `arnold-schwarzenegger-say`
 
+Barack Obama (vo.codes) - `barack-obama-say`
+
 Bart Simpson (vo.codes) - `bart-simpson-say`
 
 Ben Shapiro (vo.codes) - `ben-shapiro-say`
@@ -65,17 +67,27 @@ Flowey (15.ai) - `flowey-say`
 
 Fluttershy (15.ai) - `fluttershy-say`
 
+George Takei (vo.codes) - `george-takei-say`
+
 George W. Bush (vo.codes) - `george-w-bush-say`
 
 Gilbert Gottfried (vo.codes) - `gilbert-gottfried-say`
 
+Hilary Clinton (vo.codes) - `hilary-clinton-say`
+
 Homer Simpson (vo.codes) - `homer-simpson-say`
+
+James Earl Jones (vo.codes) - `james-earl-jones-say`
 
 J.K. Simmons (vo.codes) - `jk-simmons-say`
 
 Jimmy Carter (vo.codes) - `jimmy-carter-say`
 
+John Oliver (vo.codes) - `john-oliver-say`
+
 Judi Dench (vo.codes) - `judi-dench-say`
+
+Larry King (vo.codes) - `larry-king-say`
 
 Leonard Nimoy (vo.codes) - `leonard-nimoy-say`
 
@@ -85,15 +97,23 @@ Lisa Simpson (vo.codes) - `lisa-simpson-say`
 
 Lyra (15.ai) - `lyra-say`
 
+Mark Zuckerbeg (vo.codes) - `mark-zuckerberg-say`
+
 Michael Rosen (vo.codes) - `michael-rosen-say`
 
 Minuette (15.ai) - `minuette-say`
 
 Moondancer (15.ai) - `moondancer-say`
 
+Mr Fred Rogers (vo.codes) - `mr-fred-rogers-say`
+
+Mr Krabs (vo.codes) - `mr-krabs-say`
+
 Neil Degrasse Tyson (vo.codes) - `neil-degrasse-tyson-say`
 
 Palmer Luckey (vo.codes) - `palmer-luckey-say`
+
+Paul Graham (vo.codes) - `paul-graham-say`
 
 Peter Thiel (vo.codes) - `peter-thiel-say`
 
@@ -121,11 +141,17 @@ Sam Altman (vo.codes) - `sam-altmans-say`
 
 Sans (15.ai) - `sans-say`
 
+Sarah Palin (15.ai) - `sarah-palin-say`
+
 Scootaloo (15.ai) - `scootaloo-say`
+
+Scout (vo.codes) - `scout-say`
 
 Shohreh Aghdashloo (vo.codes) - `shohreh-aghdashloo-say`
 
 Sir David Attenborough (vo.codes) - `sir-david-attenborough-say`
+
+Snake (vo.codes) - `snake-say`
 
 Sonic (vo.codes) - `sonic-say`
 
@@ -137,6 +163,8 @@ SpongeBob SquarePants (15.ai) - `spongebob-squarepants-15-say`
 
 SpongeBob SquarePants (vo.codes) - `spongebob-squarepants-say`
 
+Squidward Tentacles (vo.codes) - `squidward-tentacles-say`
+
 Starlight Glimmer (15.ai) - `starlight-glimmer-say`
 
 Sugar Belle (15.ai) - `sugar-belle-say`
@@ -145,17 +173,29 @@ Sunset Shimmer (15.ai) - `sunset-shimmer-say`
 
 Sweetie Belle (15.ai) - `sweetie-belle-say`
 
+The Boss (vo.codes) - `the-boss-say`
+
 Toriel (15.ai) - `toriel-say`
+
+Trevor Phillips (vo.codes) - `trevor-phillips-say`
 
 Trixie (15.ai) - `trixie-say`
 
 Tucker Carlson (vo.codes) - `tucker-carlson-say`
 
+Tupac Shakur (vo.codes) - `tupac-shakur-say`
+
 Twilight Sparkle (15.ai) - `twilight-sparkle-say`
 
 Vapor Trail (15.ai) - `vapor-trail-say`
 
+Vegeta (vo.codes) - `vegeta-say`
+
 Wilford Brimley (vo.codes) - `wilford-brimley`
+
+Wizard (vo.codes) - `wizard-say`
+
+Yami Yugi (vo.codes) - `yami-yugi-say`
 
 Zecora (15.ai) - `zecora-say`
 
