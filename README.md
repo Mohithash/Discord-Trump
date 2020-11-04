@@ -99,7 +99,7 @@ Mr. Fred Rogers - `tts_fred_rogers`
 
 Mr. Krabs - `tts_krabs`
 
-Neil deGrasse Tyson - `tts_degrasse_tyson`
+Neil deGrasse Tyson - `tts_degrasse`
 
 Palmer Luckey - `tts_luckey`
 

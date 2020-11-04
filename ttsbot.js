@@ -50,7 +50,7 @@ const vocodesVoices = {
 	tts_crypt_keeper: "crypt-keeper",
 	tts_darth: "darth-vader",
 	tts_david_cross: "david-cross",
-	tts_degrasse_tyson: "neil-degrasse-tyson",
+	tts_degrasse: "neil-degrasse-tyson",
 	tts_dench: "judi-dench",
 	tts_devito: "danny-devito",
 	tts_dr_phil: "dr-phil-mcgraw",
