@@ -3,8 +3,9 @@
 # [Discord Text to Speech Bot](https://discordapp.com/oauth2/authorize?client_id=484622857041608705&scope=bot)
 Text to speech Discord bot using [Vocodes](https://vo.codes) and [15.ai](https://15.ai).
 
-Massive thanks to [NamesJoeyWheeler](https://github.com/NamesJoeyWheeler) for adding all these new voices!
-(This bot originally only worked with Donald Trump.)
+Massive thanks to [NamesJoeyWheeler](https://github.com/NamesJoeyWheeler) for adding so many new voices!
+
+(This bot originally only worked with Donald Trump's voice.)
 
 ## Commands
 ### Join
