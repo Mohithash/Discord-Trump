@@ -23,7 +23,7 @@ Massive thanks to [NamesJoeyWheeler](https://github.com/NamesJoeyWheeler) for ad
 
 *If not, the speech will be sent as an attachment.*
 
-#### [Vocodes](https://vo.codes) voices
+#### [Vocodes voices](https://vo.codes)
 
 Alan Rickman - `tts_rickman`
 
