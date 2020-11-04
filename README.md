@@ -1,7 +1,7 @@
 <img src="icon.png?raw=true" width="75" align="left">
 
 # [Discord Text to Speech Bot](https://discordapp.com/oauth2/authorize?client_id=484622857041608705&scope=bot)
-Text to speech Discord bot using [Vocodes](https://vo.codes) and [15.ai](https://15.ai).
+Text to speech Discord bot using [Vocodes](https://vo.codes) and [15.ai](https://fifteen.ai/).
 
 Massive thanks to [NamesJoeyWheeler](https://github.com/NamesJoeyWheeler) for adding so many new voices!
 
@@ -167,7 +167,7 @@ Wizard (Death Battle!) - `tts_wizard`
 
 Yami Yugi - `tts_yugi`
 
-#### 15.ai voices
+#### [15.ai voices](https://fifteen.ai/)
 
 These will be added again once the 15.ai website goes back online.
 
