@@ -1,15 +1,15 @@
 {
-  "name": "Discord-Trump",
+  "name": "Discord-TTS",
   "version": "1.0.0",
   "description": "Text to speech Discord bot using Vocodes and 15.ai.",
-  "main": "trump.js",
+  "main": "ttsbot.js",
   "engines": {
     "node": "10.x",
     "npm": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node trump.js"
+    "start": "node ttsbot.js"
   },
   "keywords": [
     "discord",
@@ -26,10 +26,11 @@
     "nodejs",
     "node-js",
     "bot",
-    "trump",
-    "donald",
     "tts",
-    "text-to-speech"
+    "text-to-speech",
+    "vocodes",
+    "wavenet",
+    "tacotron"
   ],
   "author": "MysteryPancake",
   "license": "MIT",

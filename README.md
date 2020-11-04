@@ -171,9 +171,9 @@ These will be added again once the 15.ai website goes back online.
 
 ## Setup
 1. [Create your app with a Bot](https://discordapp.com/developers/applications/me).
-2. Copy your bot's secret token and [paste it on this line](trump.js#L8).
+2. Copy your bot's secret token and [paste it on this line](ttsbot.js#L8).
 3. Go to `https://discordapp.com/oauth2/authorize?client_id=<CLIENT_ID>&scope=bot`, with `<CLIENT_ID>` as your app's client ID.
 4. [Install Node.js](https://nodejs.org/en/download): `brew install node`
 5. [Install FFmpeg](https://www.ffmpeg.org/download.html): `brew install ffmpeg`
 6. [Install the dependencies](package.json#L37-L40): `npm install`
-7. [Run the bot](trump.js): `npm start`
+7. [Run the bot](ttsbot.js): `npm start`
