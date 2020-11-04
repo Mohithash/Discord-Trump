@@ -17,7 +17,7 @@ Massive thanks to [NamesJoeyWheeler](https://github.com/NamesJoeyWheeler) for ad
 *Leaves the voice channel.*
 
 ### Say
-*Makes the selected character say anything you want.*
+*The following commands make the characters say anything you want.*
 
 *If the bot is in a voice channel, the speech will play through this channel.*
 
