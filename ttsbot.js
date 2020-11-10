@@ -26,76 +26,76 @@ client.on("ready", function() {
 });
 
 const vocodesVoices = {
-	tts_altman: "sam-altman",
-	tts_arnold: "arnold-schwarzenegger",
-	tts_attenborough: "david-attenborough",
-	tts_ayoade: "richard-ayoade",
-	tts_bart: "bart-simpson",
-	tts_ben_stein: "ben-stein",
-	tts_betty_white: "betty-white",
-	tts_bill_clinton: "bill-clinton",
-	tts_bill_gates: "bill-gates",
-	tts_bill_nye: "bill-nye",
-	tts_bob_barker: "bob-barker",
-	tts_boss: "the-boss",
-	tts_brimley: "wilford-brimley",
-	tts_broomstick: "boomstick",
-	tts_bush: "george-w-bush",
-	tts_carter: "jimmy-carter",
-	tts_christopher_lee: "christopher-lee",
-	tts_cooper: "anderson-cooper",
-	tts_craig_ferguson: "craig-ferguson",
-	tts_cramer: "jim-cramer",
-	tts_cranston: "bryan-cranston",
-	tts_crypt_keeper: "crypt-keeper",
-	tts_darth: "darth-vader",
-	tts_david_cross: "david-cross",
-	tts_degrasse: "neil-degrasse-tyson",
-	tts_dench: "judi-dench",
-	tts_devito: "danny-devito",
-	tts_dr_phil: "dr-phil-mcgraw",
-	tts_earl_jones: "james-earl-jones",
-	tts_fred_rogers: "fred-rogers",
-	tts_gottfried: "gilbert-gottfried",
-	tts_hillary_clinton: "hillary-clinton",
-	tts_homer: "homer-simpson",
-	tts_krabs: "mr-krabs",
-	tts_larry_king: "larry-king",
-	tts_lisa: "lisa-simpson",
-	tts_luckey: "palmer-luckey",
-	tts_mcconnell: "mitch-mcconnell",
-	tts_nimoy: "leonard-nimoy",
-	tts_nixon: "richard-nixon",
-	tts_obama: "barack-obama",
-	tts_oliver: "john-oliver",
-	tts_palin: "sarah-palin",
-	tts_paul_graham: "paul-graham",
-	tts_paula_deen: "paula-deen",
-	tts_penguinz0: "moistcr1tikal",
-	tts_reagan: "ronald-reagan",
-	tts_rickman: "alan-rickman",
-	tts_rosen: "michael-rosen",
-	tts_saruman: "saruman",
-	tts_scout: "scout",
-	tts_shapiro: "ben-shapiro",
-	tts_shohreh: "shohreh-aghdashloo",
-	tts_simmons: "j-k-simmons",
-	tts_snake: "solid-snake",
-	tts_snape: "severus-snape",
-	tts_sonic: "sonic",
-	tts_spongebob: "spongebob-squarepants",
-	tts_squidward: "squidward",
-	tts_takei: "george-takei",
-	tts_thiel: "peter-thiel",
-	tts_trevor: "trevor-philips",
-	tts_trump: "donald-trump",
-	tts_tucker: "tucker-carlson",
-	tts_tupac: "tupac-shakur",
-	tts_vegeta: "vegeta",
-	tts_wiseau: "tommy-wiseau",
-	tts_wizard: "wizard",
-	tts_yugi: "yami-yugi",
-	tts_zuckerberg: "mark-zuckerberg"
+	altman: "sam-altman",
+	arnold: "arnold-schwarzenegger",
+	attenborough: "david-attenborough",
+	ayoade: "richard-ayoade",
+	bart: "bart-simpson",
+	ben_stein: "ben-stein",
+	betty_white: "betty-white",
+	bill_clinton: "bill-clinton",
+	bill_gates: "bill-gates",
+	bill_nye: "bill-nye",
+	bob_barker: "bob-barker",
+	boss: "the-boss",
+	brimley: "wilford-brimley",
+	broomstick: "boomstick",
+	bush: "george-w-bush",
+	carter: "jimmy-carter",
+	christopher_lee: "christopher-lee",
+	cooper: "anderson-cooper",
+	craig_ferguson: "craig-ferguson",
+	cramer: "jim-cramer",
+	cranston: "bryan-cranston",
+	crypt_keeper: "crypt-keeper",
+	darth: "darth-vader",
+	david_cross: "david-cross",
+	degrasse: "neil-degrasse-tyson",
+	dench: "judi-dench",
+	devito: "danny-devito",
+	dr_phil: "dr-phil-mcgraw",
+	earl_jones: "james-earl-jones",
+	fred_rogers: "fred-rogers",
+	gottfried: "gilbert-gottfried",
+	hillary_clinton: "hillary-clinton",
+	homer: "homer-simpson",
+	krabs: "mr-krabs",
+	larry_king: "larry-king",
+	lisa: "lisa-simpson",
+	luckey: "palmer-luckey",
+	mcconnell: "mitch-mcconnell",
+	nimoy: "leonard-nimoy",
+	nixon: "richard-nixon",
+	obama: "barack-obama",
+	oliver: "john-oliver",
+	palin: "sarah-palin",
+	paul_graham: "paul-graham",
+	paula_deen: "paula-deen",
+	penguinz0: "moistcr1tikal",
+	reagan: "ronald-reagan",
+	rickman: "alan-rickman",
+	rosen: "michael-rosen",
+	saruman: "saruman",
+	scout: "scout",
+	shapiro: "ben-shapiro",
+	shohreh: "shohreh-aghdashloo",
+	simmons: "j-k-simmons",
+	snake: "solid-snake",
+	snape: "severus-snape",
+	sonic: "sonic",
+	spongebob: "spongebob-squarepants",
+	squidward: "squidward",
+	takei: "george-takei",
+	thiel: "peter-thiel",
+	trevor: "trevor-philips",
+	trump: "donald-trump",
+	tucker: "tucker-carlson",
+	tupac: "tupac-shakur",
+	vegeta: "vegeta",
+	wiseau: "tommy-wiseau",
+	wizard: "wizard",
+	yugi: "yami-yugi",
+	zuckerberg: "mark-zuckerberg"
 }
 
 function vocodesSpeak(message, utterance, speaker) {
@@ -153,25 +153,33 @@ function vocodesSpeak(message, utterance, speaker) {
 client.on("message", function(message) {
 	if (message.author.bot || !message.guild) return;
 	const content = message.content.toLowerCase();
-	if (content === "tts_join") {
-		if (message.member.voice && message.member.voice.channel) {
-			message.member.voice.channel.join().then(updateStatus).catch(function() {
-				message.channel.send("I need permission to join your voice channel!").catch(console.error);
-			});
-		} else {
-			message.channel.send("Join a voice channel first!").catch(console.error);
-		}
-	} else if (content === "tts_leave") {
-		const connection = message.guild.voice && message.guild.voice.connection;
-		if (connection) {
-			connection.disconnect();
-			updateStatus();
-		}
-	} else {
-		const command = content.split(" ")[0];
-		const vocodeVoice = vocodesVoices[command];
-		if (vocodeVoice) {
-			vocodesSpeak(message, message.content.slice(command.length).trim(), vocodeVoice);
+	if (content.startsWith("tts_")) {
+		const trimmedContent = content.slice(4);
+		switch (trimmedContent) {
+		case "join":
+			if (message.member.voice && message.member.voice.channel) {
+				message.member.voice.channel.join().then(updateStatus).catch(function() {
+					message.channel.send("I need permission to join your voice channel!").catch(console.error);
+				});
+			} else {
+				message.channel.send("Join a voice channel first!").catch(console.error);
+			}
+			break;
+		case "leave":
+			const connection = message.guild.voice && message.guild.voice.connection;
+			if (connection) {
+				connection.disconnect();
+				updateStatus();
+			}
+			break;
+		default:
+			const command = trimmedContent.split(" ")[0];
+			const vocodeVoice = vocodesVoices[command];
+			if (vocodeVoice) {
+				vocodesSpeak(message, message.content.slice(4 + command.length).trim(), vocodeVoice);
+			} else {
+				message.channel.send("No voice named " + command + "!").catch(console.error);
+			}
 		}
 	}
 });
