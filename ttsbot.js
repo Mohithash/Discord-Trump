@@ -124,7 +124,7 @@ function vocodesSpeak(message, utterance, speaker) {
 				// Delete temporary file upon error
 				fs.unlinkSync(fileName);
 			} else {
-				const connection = message.guild.voice && message.guild.voice.connection;
+				const connection = message.guild && message.guild.voice && message.guild.voice.connection;
 				if (connection) {
 					connection.play(fs.createReadStream(fileName)).on("speaking", function(speaking) {
 						// Delete file when speaking has finished
@@ -151,13 +151,15 @@ function vocodesSpeak(message, utterance, speaker) {
 }
 
 client.on("message", function(message) {
-	if (message.author.bot || !message.guild) return;
+	if (message.author.bot) return;
 	const content = message.content.toLowerCase();
 	if (content.startsWith("tts_")) {
 		const trimmedContent = content.slice(4);
 		switch (trimmedContent) {
 		case "join":
-			if (message.member.voice && message.member.voice.channel) {
+			if (!message.guild) {
+				message.channel.send("This command only works on servers!").catch(console.error);
+			} else if (message.member.voice && message.member.voice.channel) {
 				message.member.voice.channel.join().then(updateStatus).catch(function() {
 					message.channel.send("I need permission to join your voice channel!").catch(console.error);
 				});
@@ -166,7 +168,7 @@ client.on("message", function(message) {
 			}
 			break;
 		case "leave":
-			const connection = message.guild.voice && message.guild.voice.connection;
+			const connection = message.guild && message.guild.voice && message.guild.voice.connection;
 			if (connection) {
 				connection.disconnect();
 				updateStatus();
