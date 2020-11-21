@@ -4,7 +4,7 @@
   "description": "Text to speech Discord bot using Vocodes and 15.ai.",
   "main": "ttsbot.js",
   "engines": {
-    "node": "10.x",
+    "node": "12.x",
     "npm": "*"
   },
   "scripts": {
@@ -35,8 +35,8 @@
   "author": "MysteryPancake",
   "license": "MIT",
   "dependencies": {
+    "@discordjs/opus": "^0.3.3",
     "discord.js": "^12.4.1",
-    "node-opus": "^0.3.3",
     "request": "^2.88.2"
   }
 }
