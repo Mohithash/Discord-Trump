@@ -25,7 +25,7 @@ Massive thanks to [NamesJoeyWheeler](https://github.com/NamesJoeyWheeler) for ad
 
 *If not, the speech will be sent as an attachment.*
 
-#### [15.ai voices](https://fifteen.ai)
+#### [15.ai voices](https://15.ai)
 
 Adagio Dazzle - `tts_adagio`
 
@@ -213,8 +213,6 @@ Danny DeVito - `tts_devito`
 
 Darth Vader - `tts_darth`
 
-David Attenborough - `tts_attenborough`
-
 David Cross - `tts_cross`
 
 Donald Trump - `tts_trump`
@@ -288,6 +286,8 @@ Scout - `tts_scout2`
 Severus Snape - `tts_snape`
 
 Shohreh Aghdashloo - `tts_shohreh`
+
+Sir David Attenborough - `tts_attenborough`
 
 Solid Snake - `tts_snake`
 
