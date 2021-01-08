@@ -25,6 +25,154 @@ Massive thanks to [NamesJoeyWheeler](https://github.com/NamesJoeyWheeler) for ad
 
 *If not, the speech will be sent as an attachment.*
 
+#### [15.ai voices](https://fifteen.ai)
+
+Adagio Dazzle - `tts_adagio`
+
+Administrator - `tts_administrator`
+
+Apple Bloom - `tts_bloom`
+
+Applejack - `tts_applejack`
+
+Aria Blaze - `tts_aria`
+
+Big Mac - `tts_mac`
+
+Bon Bon - `tts_bon`
+
+Braeburn - `tts_braeburn`
+
+Carl Brutananadilewski - `tts_carl`
+
+Cheerilee - `tts_cheerilee`
+
+Coco Pommel - `tts_coco`
+
+Cozy Glow - `tts_cozy`
+
+Dan - `tts_dan`
+
+Daria Morgendorffer - `tts_daria`
+
+Daring Do - `tts_daring`
+
+Demoman - `tts_demoman`
+
+Derpy Hooves - `tts_derpy`
+
+Diamond Tiara - `tts_diamond`
+
+Discord - `tts_discord`
+
+Engineer - `tts_engineer`
+
+Fluttershy - `tts_fluttershy`
+
+GLaDOS - `tts_glados`
+
+Gabby - `tts_gabby`
+
+Gilda - `tts_gilda`
+
+HAL 9000 - `tts_hal`
+
+Heavy - `tts_heavy`
+
+Jane Lane - `tts_jane`
+
+Kyu Sugardust - `tts_kyu`
+
+Lightning Dust - `tts_lightning`
+
+Limestone Pie - `tts_limestone`
+
+Lyra - `tts_lyra`
+
+Maud Pie - `tts_maud`
+
+Medic - `tts_medic`
+
+Minuette - `tts_minuette`
+
+Miss Pauling - `tts_pauling`
+
+Moondancer - `tts_moondancer`
+
+Octavia - `tts_octavia`
+
+Pinkie Pie - `tts_pinkie`
+
+Princess Cadance - `tts_cadance`
+
+Princess Celestia - `tts_celestia`
+
+Princess Luna - `tts_luna`
+
+Queen Chrysalis - `tts_chrysalis`
+
+Rainbow Dash - `tts_dash`
+
+Rarity - `tts_rarity`
+
+Rise Kujikawa - `tts_rise`
+
+Scootaloo - `tts_scootaloo`
+
+Scout - `tts_scout`
+
+Sentry Turret - `tts_turret`
+
+Shining Armor - `tts_prince`
+
+Silver Spoon - `tts_silver`
+
+Snails - `tts_snails`
+
+Sniper - `tts_sniper`
+
+Snips - `tts_snips`
+
+Soarin' - `tts_soarin`
+
+Soldier - `tts_soldier`
+
+Sonata Dusk - `tts_sonata`
+
+Spike - `tts_spike`
+
+Spitfire - `tts_spitfire`
+
+SpongeBob SquarePants - `tts_spongebob`
+
+Spy - `tts_spy`
+
+Starlight Glimmer - `tts_starlight`
+
+Steven Universe - `tts_steven`
+
+Sugar Belle - `tts_sugar`
+
+Sunburst - `tts_sunburst`
+
+Sunset Shimmer - `tts_sunset`
+
+Sweetie Belle - `tts_sweetie`
+
+Tenth Doctor - `tts_tennant`
+
+The Narrator - `tts_narrator`
+
+Trixie - `tts_trixie`
+
+Twilight Sparkle - `tts_twilight`
+
+Vapor Trail - `tts_vapor`
+
+Wheatley - `tts_wheatley`
+
+Zecora - `tts_zecora`
+
 #### [Vocodes voices](https://vo.codes)
 
 Alan Rickman - `tts_rickman`
@@ -33,57 +181,69 @@ Anderson Cooper - `tts_cooper`
 
 Arnold Schwarzenegger - `tts_arnold`
 
+Barack Obama - `tts_obama`
+
 Bart Simpson - `tts_bart`
 
 Ben Shapiro - `tts_shapiro`
 
-Ben Stein - `tts_ben_stein`
+Ben Stein - `tts_stein`
 
-Betty White - `tts_betty_white`
+Betty White - `tts_white`
 
-Bill Gates - `tts_bill_gates`
+Bill Clinton - `tts_bill`
 
-Bill Nye - `tts_bill_nye`
+Bill Gates - `tts_gates`
 
-Bob Barker - `tts_bob_barker`
+Bill Nye - `tts_nye`
 
-Boomstick (Death Battle!) - `tts_broomstick`
+Bob Barker - `tts_barker`
+
+Boomstick - `tts_broomstick`
 
 Bryan Cranston - `tts_cranston`
 
-Christopher Lee - `tts_christopher_lee`
+Christopher Lee - `tts_lee`
 
-Craig Ferguson - `tts_craig_fergusson`
+Craig Ferguson - `tts_ferguson`
 
-Crypt Keeper - `tts_crypt_keeper`
+Crypt Keeper - `tts_keeper`
 
-Danny Devito - `tts_devito`
+Danny DeVito - `tts_devito`
 
 Darth Vader - `tts_darth`
 
-David Cross - `tts_david_cross`
+David Attenborough - `tts_attenborough`
 
-Dr. Phil McGraw - `tts_dr_phil`
+David Cross - `tts_cross`
+
+Donald Trump - `tts_trump`
+
+Dr. Phil McGraw - `tts_phil`
 
 George Takei - `tts_takei`
 
+George W Bush - `tts_bush`
+
 Gilbert Gottfried - `tts_gottfried`
 
-Hillary Clinton - `tts_hillary_clinton`
+Hillary Clinton - `tts_hillary`
 
 Homer Simpson - `tts_homer`
 
 J. K. Simmons - `tts_simmons`
 
-James Earl Jones - `tts_earl_jones`
+James Earl Jones - `tts_jones`
 
 Jim Cramer - `tts_cramer`
+
+Jimmy Carter - `tts_carter`
 
 John Oliver - `tts_oliver`
 
 Judi Dench - `tts_dench`
 
-Larry King - `tts_larry_king`
+Larry King - `tts_king`
 
 Leonard Nimoy - `tts_nimoy`
 
@@ -93,11 +253,11 @@ Mark Zuckerberg - `tts_zuckerberg`
 
 Michael Rosen - `tts_rosen`
 
-Mitch McConnell - `tts_mcconnell`
+Mitch Mcconnell - `tts_mcconnell`
 
-moistcr1tikal - `tts_penguinz0`
+Moistcr1tikal - `tts_penguinz0`
 
-Mr. Fred Rogers - `tts_fred_rogers`
+Mr. Fred Rogers - `tts_rogers`
 
 Mr. Krabs - `tts_krabs`
 
@@ -105,27 +265,17 @@ Neil deGrasse Tyson - `tts_degrasse`
 
 Palmer Luckey - `tts_luckey`
 
-Paul Graham - `tts_paul_graham`
+Paul Graham - `tts_graham`
 
-Paula Deen - `tts_paula_deen`
+Paula Deen - `tts_deen`
 
 Peter Thiel - `tts_thiel`
 
-President #37 Richard Nixon - `tts_nixon`
-
-President #39 Jimmy Carter - `tts_carter`
-
-President #40 Ronald Reagan - `tts_reagan`
-
-President #42 Bill Clinton - `tts_bill_clinton`
-
-President #43 George W. Bush - `tts_bush`
-
-President #44 Barack Obama - `tts_obama`
-
-President #45 Donald Trump - `tts_trump`
-
 Richard Ayoade - `tts_ayoade`
+
+Richard Nixon - `tts_nixon`
+
+Ronald Reagan - `tts_reagan`
 
 Sam Altman - `tts_altman`
 
@@ -133,21 +283,19 @@ Sarah Palin - `tts_palin`
 
 Saruman - `tts_saruman`
 
-Scout - `tts_scout`
+Scout - `tts_scout2`
 
 Severus Snape - `tts_snape`
 
 Shohreh Aghdashloo - `tts_shohreh`
 
-Sir David Attenborough - `tts_attenborough`
-
 Solid Snake - `tts_snake`
 
 Sonic - `tts_sonic`
 
-SpongeBob SquarePants - `tts_spongebob`
+SpongeBob SquarePants - `tts_spongebob2`
 
-Squidward Tentacles - `tts_squidward`
+Squidward - `tts_squidward`
 
 The Boss - `tts_boss`
 
@@ -157,19 +305,15 @@ Trevor Philips - `tts_trevor`
 
 Tucker Carlson - `tts_tucker`
 
-Tupac Shakur (acapella lyrics) - `tts_tupac`
+Tupac Shakur - `tts_tupac`
 
 Vegeta - `tts_vegeta`
 
 Wilford Brimley - `tts_brimley`
 
-Wizard (Death Battle!) - `tts_wizard`
+Wizard - `tts_wizard`
 
 Yami Yugi - `tts_yugi`
-
-#### [15.ai voices](https://fifteen.ai)
-
-These will be added again once the 15.ai website goes back online.
 
 ## Setup
 1. [Create your app with a Bot](https://discordapp.com/developers/applications/me).
