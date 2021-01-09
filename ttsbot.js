@@ -96,7 +96,7 @@ const vocodesVoices = {
 	wizard: "wizard",
 	yugi: "yami-yugi",
 	zuckerberg: "mark-zuckerberg"
-}
+};
 
 const fifteenAIVoices = {
 	adagio: "Adagio Dazzle",
@@ -172,7 +172,7 @@ const fifteenAIVoices = {
 	vapor: "Vapor Trail",
 	wheatley: "Wheatley",
 	zecora: "Zecora"
-}
+};
 
 function speak(message, utterance, params) {
 	if (utterance) {
@@ -256,7 +256,7 @@ client.on("message", function(message) {
 						character: fifteenAIVoice,
 						text: utterance,
 						emotion: "Contextual"
-					}),
+					})
 				});
 			} else if (vocodeVoice) {
 				speak(message, utterance, {
@@ -268,7 +268,7 @@ client.on("message", function(message) {
 					body: JSON.stringify({
 						speaker: vocodeVoice,
 						text: utterance
-					}),
+					})
 				});
 			} else {
 				message.channel.send("No voice named " + command + "!").catch(console.error);
