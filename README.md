@@ -159,7 +159,7 @@ Sunset Shimmer - `tts_sunset`
 
 Sweetie Belle - `tts_sweetie`
 
-Tenth Doctor - `tts_tennant`
+Tenth Doctor - `tts_tenthdoctor`
 
 The Narrator - `tts_narrator`
 
