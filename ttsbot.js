@@ -165,7 +165,7 @@ const fifteenAIVoices = {
 	sunburst: "Sunburst",
 	sunset: "Sunset Shimmer",
 	sweetie: "Sweetie Belle",
-	tennant: "Tenth Doctor",
+	tenthdoctor: "Tenth Doctor",
 	trixie: "Trixie",
 	turret: "Sentry Turret",
 	twilight: "Twilight Sparkle",
